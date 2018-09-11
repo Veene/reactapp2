@@ -1,5 +1,5 @@
 import React from 'react';
-import robots from './robots';
+
 
 const Card = ({ name, email, id }) => {
     
